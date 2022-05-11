@@ -1,0 +1,4 @@
+Name;Age;score;
+aji;26;804;
+prabhu;24;900;
+jithu;23;980;
